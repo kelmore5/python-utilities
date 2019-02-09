@@ -1,0 +1,5 @@
+xlrd
+openpyxl
+dill
+pbkdf2
+pycryptodome

@@ -1,0 +1,15 @@
+.idea/
+
+temp*
+*temp
+*.db
+*.pyc
+
+backup/
+build/
+chromedriver/
+compact/
+database/keys/
+input/
+logs/
+output/
